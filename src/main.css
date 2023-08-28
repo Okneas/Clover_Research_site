@@ -1,0 +1,42 @@
+html{
+    width:100vw; 
+    margin:0;
+    box-sizing: border-box;
+    max-width: 1920px;
+    min-width: 1920px;
+}
+
+body{
+    max-width: 100vw;
+    max-width: 100%;
+}
+
+.android {
+    top: 6769px;
+    left: 554px;
+    color: #3c4353;
+    text-align: center;
+    font: 900 40px/150% "Gotham Pro", sans-serif;
+    position: relative;
+    width: 813px;
+    height: 116px;
+  }
+
+  .sumsung{
+    top: 6919px;
+    left: 400px;
+    position: relative;
+    z-index: 2;
+  }
+
+  .elipse1{
+    position: relative;
+    top:6100px;
+    left: 500px;
+    width: 859px;
+    height: 859px;
+    border-radius: 959px;
+    background: linear-gradient(151deg, rgba(243, 252, 243, 0.80) 0%, rgba(254, 246, 232, 0.80) 100%);
+  }
+
+

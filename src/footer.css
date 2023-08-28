@@ -1,0 +1,375 @@
+.foo1{
+    width: 1920px;
+    height: 810px;
+    top: 9210px;
+    position: absolute;
+}
+
+.contacts{
+    top:99px;
+    left:324px;
+    width: 507px;
+    height: 437px;
+    position: absolute;
+}
+
+.address{
+    width: 507px;
+    height: 291px;
+    position: absolute;
+}
+
+.social{
+    width: 350px;
+    height: 76px;
+    position: absolute;
+    bottom: 0;
+}
+
+.con {
+    color: #000000;
+    text-align: left;
+    font: 700 35px/124.2% "Gotham Pro", sans-serif;
+    position: relative;
+  }
+  .frame-1336523700 {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+  }
+  .frame-1336523759 {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+  }
+  .frame-1336523687 {
+    padding: 10px 0px 10px 0px;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    height: 44px;
+    position: relative;
+  }
+  .telegram {
+    color: #000000;
+    text-align: center;
+    font: 600 22px/100% "Gotham Pro", sans-serif;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .telegram2 {
+    background: #039be5;
+    border-radius: 100px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    width: 46px;
+    height: 46px;
+    position: relative;
+  }
+  .frame-1336522991 {
+    flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+  }
+  ._8-800-234-32-62 {
+    color: #000000;
+    text-align: left;
+    font: 600 22px/120% "Gotham Pro", sans-serif;
+    position: relative;
+  }
+  .group-237814 {
+    flex-shrink: 0;
+    width: 210px;
+    height: 26px;
+    position: static;
+  }
+  .hello-joy-dev-com {
+    color: #000000;
+    text-align: left;
+    font: 600 22px/120% "Gotham Pro", sans-serif;
+    position: absolute;
+    left: 0px;
+    top: 115px;
+  }
+  ._127282-4-1-1-v-14-87 {
+    color: #000000;
+    text-align: left;
+    font: 600 22px/120% "Gotham Pro", sans-serif;
+    position: relative;
+    width: 507px;
+  }
+
+  .subscribe {
+    left: 0;
+    width: 140px;
+    color: #000000;
+    text-align: center;
+    font: 700 20px/120% "Gotham Pro", sans-serif;
+    position: relative;
+  }
+
+  .links{
+    position: relative;
+    top: 11px;
+    width: 350px;
+    height: 46px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+  }
+
+  .registration{
+    left: 949px;
+    width: 647px;
+    height: 614px;
+    flex-shrink: 0;
+    border-radius: 20px;
+    background: #F8F8F8;
+    position: absolute;
+  }
+
+  .t{
+    top: 39px;
+    left: 39px;
+    color: #000000;
+    text-align: left;
+    font: 550 35px/124.2% "Gotham Pro", sans-serif;
+    position: relative;
+  }
+
+  .t1{
+    top: 80px;
+    left: 39px;
+    color: #000000;
+    text-align: left;
+    font: 500 20px/124.2% "Gotham Pro", sans-serif;
+    position: relative;
+  }
+
+  .name {
+    position: relative;
+    top: 150px;
+    border: none;
+    width: 300px;
+    height: 26px;
+    left: 39px;
+    background-color: transparent;
+    color: inherit;
+    outline: none;
+    border-bottom: 1px solid #bbbbbb;
+    font-size:24px;
+  }
+
+  .name {
+    position: relative;
+    top: 150px;
+    border: none;
+    width: 260px;
+    height: 26px;
+    left: 39px;
+    background-color: transparent;
+    color: inherit;
+    outline: none;
+    border-bottom: 1px solid #bbbbbb;
+    font-size:24px;
+  }
+
+  .telephone {
+    position: relative;
+    top: 150px;
+    border: none;
+    width: 280px;
+    height: 26px;
+    left: 59px;
+    background-color: transparent;
+    color: inherit;
+    outline: none;
+    border-bottom: 1px solid #bbbbbb;
+    font-size:24px;
+  }
+
+  .idea {
+    position: relative;
+    top: 201px;
+    border: none;
+    width: 565px;
+    height: 26px;
+    left: 39px;
+    background-color: transparent;
+    color: inherit;
+    outline: none;
+    border-bottom: 1px solid #bbbbbb;
+    font-size:24px;
+  }
+
+  .hicon-outline-attachment{
+    top: 250px;
+    left: 10px;
+    position: relative;
+  }
+
+  ._10 {
+    top: 220px;
+    left: 50px;
+    color: #000000;
+    text-align: left;
+    font: 400 16px/158.2% "Gotham Pro", sans-serif;
+    position: relative;
+  }
+
+  .pdf-docx-odt-ods-xls-x-txt{
+    color: #000000;
+    text-align: left;
+    font: 400 14px/158.2% "Gotham Pro", sans-serif;
+    width: 566px;
+    position: relative;
+    top: 220px;
+    left: 50px;
+  }
+
+  .policie {
+    top: 250px;
+    left: 90px;
+    color: #000000;
+    text-align: left;
+    font: 400 15px/150% "Gotham Pro", sans-serif;
+    position: relative;
+    width: 347px;
+  }
+  .span5 {
+    color: #000000;
+    font: 400 15px/150% "Gotham Pro", sans-serif;
+  }
+  .span {
+    color: #000000;
+    font: 400 15px/150% "Gotham Pro", sans-serif;
+    text-decoration: underline;
+  }
+
+  .exclude {
+
+    flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+  }
+
+  .mark{
+    top: -23px;
+    left: -30px;
+    width:20px;
+    height:20px;
+    border:1px solid black;
+    border-radius: 7px;
+    position:relative;
+  }
+
+  .frame-237746 {
+    top: 250px;
+    left: 39px;
+    background: #f86161;
+    border-radius: 50px;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    width: 218px;
+    height: 62px;
+    position: relative;
+  }
+  .textButton {
+    color: #ffffff;
+    text-align: center;
+    font: 500 20px/158.2% "Gotham Pro", sans-serif;
+    position: relative;
+  }
+
+  .footer12 {
+    bottom: 0;
+    width: 101%;
+    height: 90px;
+    position: absolute;
+    overflow:hidden
+  }
+  .rectangle-1694 {
+    background: #ffffff;
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0.3);
+    border-width: 1px 0px 0px 0px;
+    width: 110%;
+    height: 90px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+  }
+  .frame-1336522445 {
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: 665px;
+    top: 34px;
+  }
+  .frame-1336522444 {
+    display: flex;
+    flex-direction: row;
+    gap: 6px;
+    align-items: center;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+  }
+  .copyright-symbol-icon-icons-com-70218-1 {
+    flex-shrink: 0;
+    position: relative;
+    overflow: visible;
+  }
+  .frame-1336522478 {
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+  }
+  ._2023-joy-dev {
+    color: #000000;
+    text-align: left;
+    font: 500 16px/140% "Gotham Pro", sans-serif;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  ._2023-joy-dev-span {
+    color: #000000;
+    font: 500 16px/140% "Gotham Pro", sans-serif;
+  }
+  ._2023-joy-dev-span2 {
+    color: #000000;
+    font: 500 16px/140% "Gotham Pro", sans-serif;
+    text-decoration: underline;
+  }

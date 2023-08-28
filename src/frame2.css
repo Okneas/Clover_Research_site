@@ -1,0 +1,172 @@
+.thirteen {
+    top: 800px;
+    left: 750px;
+    color: #89a939;
+    text-align: center;
+    font: 900 120px/32px "Gotham Pro", sans-serif;
+    position: relative; 
+    width: 454px;
+    height: 119px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.proto{
+    top: 950px;
+    left: 733px;
+    color: #363b46;
+    text-align: center;
+    font: 900 40px/32px "Gotham Pro", sans-serif;
+    position: relative;
+    width: 454px;
+    height: 31.15px;
+}
+
+.ux{
+    top: 1000px;
+    left: 566px;
+    color: #000000;
+    text-align: center;
+    font: 400 25px/180% "Gotham Pro", sans-serif;
+    position: relative;
+}
+
+.frame2{
+    width: 1920px;
+    height: 3000px;
+    overflow:visible;
+    top:1400px;
+}
+
+.backg, html{
+    width: 1952px;
+    height: 2751px;
+}
+
+.frame2, .proto, .prototypes, .thirteen, .ux, .frame-1336523064, .line-20, .one, .two, .frame-1336523562, .live, .list1, 
+.clever1,.clever2, .clever3, .clever4, .panel1, .panel2, .panel3, .panel4{
+    position: absolute;
+}
+
+.clever1{
+    transform: scale(-1, 1) rotate(100deg);
+    left: 820px;
+    filter: blur(3px);
+    z-index: 2;
+}
+
+.clever2{
+    left: 870px;
+    transform: scale(-1, 1) rotate(100deg);
+    display: block;
+    top: 300px;
+    transition: all;
+    z-index: 2;
+}
+
+.clever3{
+    left: 1150px;
+    top: -80px;
+    transform: rotate(116deg);
+    z-index: 4;
+}
+
+.clever4{
+    left: 1200px;
+    top: 300px;
+    transform: rotate(60deg);
+    z-index: 4;
+}
+
+.frame-1336523562{
+    width: 643px;
+    height: 345px;
+    top: 100px
+}
+
+.header, .html{
+    width: 100%;
+}
+
+.prototypes, .groupPhones1{
+    position: absolute;
+}
+
+.prototypes{
+    top: 1100px;
+    left: 360px;
+    width: 1150px;
+    height: 675px;
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.frame-1336523064 {
+    width: 643px;
+    height: 345px;
+    top: 2000px;
+    left: 300px;
+  }
+  .line-20 {
+    border-style: solid;
+    top: 90px;
+    border-color: #83bf0e;
+    border-width: 6px 0 0 0;
+    width: 72px;
+    height: 0px;
+    left: 13px;
+  }
+  .one {
+    color: #363b46;
+    text-align: left;
+    font: 900 40px/140% "Gotham Pro", sans-serif;
+    width: 538px;
+    height: 107px;
+    left: 14px;
+    top: 100px;
+  }
+  .two {
+    color: #000000;
+    text-align: left;
+    top: 100px;
+    font: 400 25px/160% "Gotham Pro", sans-serif;
+  }
+  .live {
+    color: #000000;
+    text-align: left;
+    font: 400 25px/160% "Gotham Pro", sans-serif;
+  }
+
+  .list1{
+    left: 900px;
+    top: -100px;
+    z-index: 3;
+  }
+
+  .panel1{
+    top: 20px;
+    left: 950px;
+    z-index: 5;
+  }
+  .panel2{
+    top: 125px;
+    left: 950px;
+    z-index: 5;
+  }
+
+  .panel3{
+    top: 230px;
+    left: 950px;
+    z-index: 5;
+  }
+
+  .panel4{
+    top: 335px;
+    left: 950px;
+    z-index: 5;
+  }
+
+ .phoneFrame2{
+    z-index: 5;
+ }

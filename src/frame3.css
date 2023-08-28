@@ -1,0 +1,147 @@
+.frame3{
+    background-image: url("..\\public\\images\\Vector (1).png");
+    width: 1920px;
+    height: 1900px;
+    top:4150px;
+    overflow: hidden;
+}
+
+.frame3, .text1, .slider, .slide1, .slide2,.slide3,.slide4, .arrowLeft, .arrowRigth, .text2{
+    position: absolute;
+}
+
+.text1{
+    color: #363b46;
+    text-align: center;
+    font: 900 40px/140% "Gotham Pro", sans-serif;
+    position: relative;
+    top: 100px;
+}
+
+.slider{
+    top: 275px;
+    width: 3264px;
+    height: 991px;
+}
+
+.slide1{
+    left: 530px;
+    z-index: 4;
+}
+
+.slide2{
+    left: 2120px;
+    z-index: 4;
+}
+
+.slide3{
+    left: 3710px;
+    z-index: 4;
+}
+
+.arrowLeft{
+    transform: scale(-1, 1);
+    top: 322px;
+    left: 298px;
+    z-index: 1;
+}
+
+.arrowRigth{
+    top: 322px;
+    left: 1622px;
+    z-index: 1;
+}
+
+.group-7857 {
+    position: absolute;
+    inset: 0;
+    top: -180px;
+    left: 585px;
+  }
+  .ellipse-174 {
+    background: #dde3d3;
+    border-radius: 50%;
+    width: 8px;
+    height: 8px;
+    position: absolute;
+    left: 346px;
+    top: 977px;
+  }
+  .ellipse-175 {
+    background: #dde3d3;
+    border-radius: 50%;
+    width: 8px;
+    height: 8px;
+    position: absolute;
+    left: 368px;
+    top: 977px;
+  }
+  .ellipse-176 {
+    background: #dde3d3;
+    border-radius: 50%;
+    width: 8px;
+    height: 8px;
+    position: absolute;
+    left: 390px;
+    top: 977px;
+  }
+
+  .text2{
+    top: 1300px;
+    left: 363px;
+    width: 796px;
+  }
+  .line-21 {
+    left: -40px;
+    border-style: solid;
+    border-color: #83bf0e;
+    border-width: 6px 0 0 0;
+    flex-shrink: 0;
+    width: 72px;
+    height: 0px;
+    position: absolute;
+    top: -60px
+  }
+  .clover-res {
+    left: -40px;
+    color: #363b46;
+    text-align: left;
+    font: 900 40px/140% "Gotham Pro", sans-serif;
+    position: absolute;
+  }
+
+  .listFunc{
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-shrink: 0;
+    position: relative;
+    color: #000000;
+    text-align: left;
+    font: 400 25px/160% "Gotham Pro", sans-serif;
+    top: 80px;
+  }
+
+  .li1{
+    list-style-image: url('..\\public\\images\\li1.png');
+  }
+
+  .li2{
+    list-style-image: url('..\\public\\images\\li2.png');
+  }
+
+  .li3{
+    list-style-image: url('..\\public\\images\\li3.png');
+  }
+
+  .li4{
+    list-style-image: url('..\\public\\images\\li4.png');
+  }
+
+  .li5{
+    list-style-image: url('..\\public\\images\\li5.png');
+  }
+
+

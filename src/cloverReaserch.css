@@ -1,0 +1,164 @@
+.frame-1{
+    top: 130px;
+    width: 1920px;
+    height: 1274px;
+    position: relative;
+    overflow: visible;
+    background-image: url("..\\public\\images\\Vector (1).png");
+}
+
+.green-line{
+    top: 50px;
+    left: -10px;
+    box-sizing: border-box;
+    overflow: visible;
+    transform: translateY(150%);
+    animation: upAni 1s forwards;
+    z-index: 1;
+}
+
+.white-line{
+    top: 10px;
+    left: -10px;
+    box-sizing: border-box;
+    overflow: visible;
+    transform: translateY(150%);
+    animation: upAni 1s forwards;
+    z-index: 1;
+}
+
+.green-line,
+.white-line,
+.whiteRect, .deepBlueRect {
+  position: absolute;
+}
+
+@keyframes upAni  {
+    0% {transform: translateY(150%); opacity: 0;}
+    100% {transform: translateY(0); opacity: 1;}
+}
+
+.whiteRect, .deepBlueRect{
+    width: 1960px;
+    left: -8px;
+    top: 500px;
+    overflow: visible;
+    transform: translateY(150%);
+    animation: upAni 0.8s forwards;
+    z-index: 4;
+}
+
+.WoodenHand{
+    width: 600px;
+    height: 700px;
+    position: absolute;
+    left: 1060px;
+    top: 160px;
+    transform: translateY(150%);
+    animation: upAni 1.5s forwards;
+    z-index: 3;
+}
+
+.phone{
+    left: 55px;
+    top: -100px;
+    width: 310px;
+    height: 626px;
+    position: absolute;
+    z-index: 2;
+}
+
+.design{
+    left: 70px;
+    top: -90px;
+    width: 280px;
+    height: 600px;
+    position: absolute;
+    z-index: 2;
+}
+
+.clever{
+    left: 40px;
+    top: -50px;
+    width: 133px;
+    height: 133px;
+    position: absolute;
+    z-index: 1;
+    animation: clevShow 2s ease-in-out;
+}
+
+@keyframes clevShow  {
+    0% {transform: translateX(10%); opacity: 0;}
+    100% {transform: translateX(-50%);opacity: 1;}
+}
+
+.tagName{
+    display: flex;
+    flex-direction: column;
+    gap: 21px;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    left: -630px;
+    top: 300px;
+    overflow: visible;
+    z-index: 2;
+    animation: tagNameShow 3s forwards;
+}
+
+@keyframes tagNameShow  {
+    0% {transform: translateX(10%); opacity: 0;}
+    100% {transform: translateX(150%); opacity: 1;}
+}
+
+.line-green{
+    left: 307px;
+    top: 750px;
+    border-style: solid;
+    border-color: #83bf0e;
+    border-width: 6px 0 0 0;
+    width: 72px;
+    height: 0px;
+    position: relative;
+    z-index: 4;
+}
+
+.clover-research {
+    top: 1000px;
+    color: #ffffff;
+    text-align: left;
+    font: 900 40px/140% "Gotham Pro", sans-serif;
+    position: relative;
+    width: 400px;
+    left: 307px;
+    height: 109px;
+    z-index: 4;
+  }
+
+.r{
+    top: 830px;
+    left: 1180px;
+    color: #ffffff;
+    text-align: left;
+    font: 500 28px/180% "Gotham Pro", sans-serif;
+    position: relative;
+    width: 465px;
+    z-index: 4;
+}
+
+.butto{
+    color: white;
+    text-align: center;
+    top: 880px;
+    left: 1180px;
+    border-radius: 10px;
+    border-style: dashed;
+    border-color: #83bf0e;
+    border-width: 3px;
+    width: 452px;
+    height: 61px;
+    text-align: center;
+    font: 500 28px/180% "Gotham Pro", sans-serif;
+    position: relative;
+    z-index: 4;
+}
