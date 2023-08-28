@@ -43,7 +43,7 @@ export class Frame4 extends React.Component{
                     </div>
                     <div className="textFrame4-1">
                         <div className="textUp">
-                            <span><span className="span">Фишка проекта<br /></span><span className="span2">чат-бот</span></span>
+                            <span><span className="span123">Фишка проекта<br /></span><span className="span2">чат-бот</span></span>
                         </div>
                         <div className="textMid">Хелп-деск помогает пользователям заполнять данные</div>
                         <ul className="listFunc1">
